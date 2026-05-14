@@ -1,0 +1,269 @@
+<Solution>
+  <Folder Name="/010 Parallels/" />
+  <Folder Name="/010 Parallels/01Basics/" />
+  <Folder Name="/010 Parallels/01Basics/01TaskLambda/">
+    <Project Path="010 Parallels/01Basics/01TaskLambda/ConsoleApp/ConsoleApp.csproj" Id="c67d06a2-03ce-47e0-bd98-314f800be7a0" />
+  </Folder>
+  <Folder Name="/010 Parallels/01Basics/02StartNewLambda/">
+    <Project Path="010 Parallels/01Basics/02StartNewLambda/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/01Basics/03TaskRunMethod/">
+    <Project Path="010 Parallels/01Basics/03TaskRunMethod/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/01Basics/04TaskRunMethod2/">
+    <Project Path="010 Parallels/01Basics/04TaskRunMethod2/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/01Basics/05Task/">
+    <Project Path="010 Parallels/01Basics/05Task/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/01Basics/06Thread/">
+    <Project Path="010 Parallels/01Basics/06Thread/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/02Parameters/" />
+  <Folder Name="/010 Parallels/02Parameters/01LambdaParamRun/">
+    <Project Path="010 Parallels/02Parameters/01LambdaParamRun/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/02Parameters/02LambdaParam/">
+    <Project Path="010 Parallels/02Parameters/02LambdaParam/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/02Parameters/03LambdaParam2/">
+    <Project Path="010 Parallels/02Parameters/03LambdaParam2/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/02Parameters/04TaskRunParam/">
+    <Project Path="010 Parallels/02Parameters/04TaskRunParam/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/02Parameters/05StartNewParam/">
+    <Project Path="010 Parallels/02Parameters/05StartNewParam/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/02Parameters/06ThreadParam/">
+    <Project Path="010 Parallels/02Parameters/06ThreadParam/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/03Returns/" />
+  <Folder Name="/010 Parallels/03Returns/01TaskReturn/">
+    <Project Path="010 Parallels/03Returns/01TaskReturn/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/03Returns/02ThreadReturn/">
+    <Project Path="010 Parallels/03Returns/02ThreadReturn/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/03Returns/11TaskReturn/">
+    <Project Path="010 Parallels/03Returns/11TaskReturn/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/03Returns/13TaskReturnTaskCont/">
+    <Project Path="010 Parallels/03Returns/13TaskReturnTaskCont/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/05Arrays/" />
+  <Folder Name="/010 Parallels/05Arrays/01ArrayTask/">
+    <Project Path="010 Parallels/05Arrays/01ArrayTask/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/05Arrays/02ArrayTaskResult/">
+    <Project Path="010 Parallels/05Arrays/02ArrayTaskResult/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/05Arrays/03ArrayTaskResult2/">
+    <Project Path="010 Parallels/05Arrays/03ArrayTaskResult2/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/05Arrays/04ArrayTaskResult3/">
+    <Project Path="010 Parallels/05Arrays/04ArrayTaskResult3/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/05Arrays/06ArrayTaskResult4/">
+    <Project Path="010 Parallels/05Arrays/06ArrayTaskResult4/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/05Arrays/07ArrayTaskResult5/">
+    <Project Path="010 Parallels/05Arrays/07ArrayTaskResult5/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/06ContinueWith/" />
+  <Folder Name="/010 Parallels/06ContinueWith/01ContinueWith/">
+    <Project Path="010 Parallels/06ContinueWith/01ContinueWith/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/06ContinueWith/03TaskStart/">
+    <Project Path="010 Parallels/06ContinueWith/03TaskStart/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/06ContinueWith/04Cascade/">
+    <Project Path="010 Parallels/06ContinueWith/04Cascade/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/06ContinueWith/05Multiple/">
+    <Project Path="010 Parallels/06ContinueWith/05Multiple/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/07ChiledNest/" />
+  <Folder Name="/010 Parallels/07ChiledNest/01NestedTasks/">
+    <Project Path="010 Parallels/07ChiledNest/01NestedTasks/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/010 Parallels/07ChiledNest/02ChiledTasks/">
+    <Project Path="010 Parallels/07ChiledNest/02ChiledTasks/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/020 Async/" />
+  <Folder Name="/020 Async/01AsyncAwait/">
+    <Project Path="020 Async/01AsyncAwait/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/020 Async/02AsyncAwait2/">
+    <Project Path="020 Async/02AsyncAwait2/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/020 Async/03AsyncResult/">
+    <Project Path="020 Async/03AsyncResult/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/020 Async/11WaitDeadWpf/">
+    <Project Path="020 Async/11WaitDeadWpf/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/020 Async/14WaitDeadResultWpf/">
+    <Project Path="020 Async/14WaitDeadResultWpf/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/030 UI/" />
+  <Folder Name="/030 UI/01TaskInvoke/">
+    <Project Path="030 UI/01TaskInvoke/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/030 UI/02ThreadInvoke/">
+    <Project Path="030 UI/02ThreadInvoke/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/030 UI/03ThreadInvoke2/">
+    <Project Path="030 UI/03ThreadInvoke2/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/030 UI/04ThreadInvokeOwn/">
+    <Project Path="030 UI/04ThreadInvokeOwn/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/030 UI/05TaskBeginInvoke/">
+    <Project Path="030 UI/05TaskBeginInvoke/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/030 UI/06TaskInvokeAsync/">
+    <Project Path="030 UI/06TaskInvokeAsync/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/030 UI/11TaskInvokeBar/">
+    <Project Path="030 UI/11TaskInvokeBar/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/030 UI/12TaskInvokeBarAwait/">
+    <Project Path="030 UI/12TaskInvokeBarAwait/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/030 UI/21BackgroundWorker/">
+    <Project Path="030 UI/21BackgroundWorker/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/030 UI/31TaskQueueBar/">
+    <Project Path="030 UI/31TaskQueueBar/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/" />
+  <Folder Name="/040 Exceptions/01AsyncAwait/">
+    <Project Path="040 Exceptions/01AsyncAwait/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/02AsyncAwait2/">
+    <Project Path="040 Exceptions/02AsyncAwait2/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/03WaitCatch/">
+    <Project Path="040 Exceptions/03WaitCatch/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/11TaskNoCatch/">
+    <Project Path="040 Exceptions/11TaskNoCatch/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/12TaskInsideCatch/">
+    <Project Path="040 Exceptions/12TaskInsideCatch/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/31ResultCatch/">
+    <Project Path="040 Exceptions/31ResultCatch/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/41AsyncAwaitWpf/">
+    <Project Path="040 Exceptions/41AsyncAwaitWpf/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/42AsyncAwaitWpf2/">
+    <Project Path="040 Exceptions/42AsyncAwaitWpf2/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/43WaitCatchWpf/">
+    <Project Path="040 Exceptions/43WaitCatchWpf/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/51MTasks/">
+    <Project Path="040 Exceptions/51MTasks/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/52MTasks2/">
+    <Project Path="040 Exceptions/52MTasks2/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/53MTasks3/">
+    <Project Path="040 Exceptions/53MTasks3/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/61ATasksWait/">
+    <Project Path="040 Exceptions/61ATasksWait/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/040 Exceptions/62ATasksResults/">
+    <Project Path="040 Exceptions/62ATasksResults/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/050 Sync/" />
+  <Folder Name="/050 Sync/01Interlocked/">
+    <Project Path="050 Sync/01Interlocked/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/050 Sync/01InterlockedM/">
+    <Project Path="050 Sync/01InterlockedM/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/050 Sync/02Moniter/">
+    <Project Path="050 Sync/02Moniter/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/050 Sync/03lock/">
+    <Project Path="050 Sync/03lock/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/050 Sync/04AutoEvent/">
+    <Project Path="050 Sync/04AutoEvent/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/050 Sync/06Mutex/">
+    <Project Path="050 Sync/06Mutex/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/050 Sync/07Semaphore/">
+    <Project Path="050 Sync/07Semaphore/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/050 Sync/11ConcurrentQueue/">
+    <Project Path="050 Sync/11ConcurrentQueue/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/050 Sync/12ConcurrentStack/">
+    <Project Path="050 Sync/12ConcurrentStack/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/050 Sync/13ConcurrentBag/">
+    <Project Path="050 Sync/13ConcurrentBag/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/050 Sync/21TaskConcurrentQueueBar/">
+    <Project Path="050 Sync/21TaskConcurrentQueueBar/WpfApp/WpfApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/" />
+  <Folder Name="/060 Parallel/01simpleFor/" />
+  <Folder Name="/060 Parallel/01simpleFor/01 simpleForS/">
+    <Project Path="060 Parallel/01simpleFor/01 simpleForS/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/01simpleFor/02 simpleForP/">
+    <Project Path="060 Parallel/01simpleFor/02 simpleForP/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/01simpleFor/03 simpleForEach/">
+    <Project Path="060 Parallel/01simpleFor/03 simpleForEach/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/02exitFor/" />
+  <Folder Name="/060 Parallel/02exitFor/01forSerial/">
+    <Project Path="060 Parallel/02exitFor/01forSerial/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/02exitFor/02forStop/">
+    <Project Path="060 Parallel/02exitFor/02forStop/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/02exitFor/03forStopState/">
+    <Project Path="060 Parallel/02exitFor/03forStopState/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/02exitFor/04forBreak/">
+    <Project Path="060 Parallel/02exitFor/04forBreak/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/02exitFor/05forLowestBreak/">
+    <Project Path="060 Parallel/02exitFor/05forLowestBreak/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/03Local/" />
+  <Folder Name="/060 Parallel/03Local/01 forLocal/">
+    <Project Path="060 Parallel/03Local/01 forLocal/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/03Local/02 foreachLocal/">
+    <Project Path="060 Parallel/03Local/02 foreachLocal/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/04Cancel/" />
+  <Folder Name="/060 Parallel/04Cancel/01 Cancel/">
+    <Project Path="060 Parallel/04Cancel/01 Cancel/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/05Partition/" />
+  <Folder Name="/060 Parallel/05Partition/01 Partitioner/">
+    <Project Path="060 Parallel/05Partition/01 Partitioner/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/05Partition/02 NumOfPartitions/">
+    <Project Path="060 Parallel/05Partition/02 NumOfPartitions/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/06Invoke/" />
+  <Folder Name="/060 Parallel/06Invoke/01Invoke/">
+    <Project Path="060 Parallel/06Invoke/01Invoke/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+  <Folder Name="/060 Parallel/06Invoke/02Invoke2/">
+    <Project Path="060 Parallel/06Invoke/02Invoke2/ConsoleApp/ConsoleApp.csproj" />
+  </Folder>
+</Solution>
